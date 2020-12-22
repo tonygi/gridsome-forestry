@@ -1,5 +1,5 @@
 ---
-date: 2019-05-18
+date: 2020-04-01
 title: macOS development environment
 author: Nichlas W. Andersen
 excerpt: Get up and running with a fresh macOS Catalina install
