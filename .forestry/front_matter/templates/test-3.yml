@@ -5,21 +5,6 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
-- type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: list
-  name: categories
-  label: categories
-- type: text
-  name: project_bg_color
-  label: project_bg_color
-- type: text
-  name: project_fg_color
-  label: project_fg_color
 - type: image_gallery
   name: galleria_progetto_1
   label: galleria_progetto_1
