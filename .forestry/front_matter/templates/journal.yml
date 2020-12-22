@@ -43,6 +43,14 @@ fields:
     value: Nichlas W. Andersen
     field: author
   description: prova
+- name: galleria
+  type: blocks
+  label: Galleria
+  template_types:
+  - test-3
+  config:
+    min: 
+    max: 
 pages:
 - journal/macos-development-environment.md
 - journal/titolo-di-prova.md
