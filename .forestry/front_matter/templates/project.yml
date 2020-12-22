@@ -35,6 +35,10 @@ fields:
   config:
     color_format: Hex
   label: Foreground color
+- name: galleria_progetto_1
+  type: image_gallery
+  config: {}
+  label: Galleria progetto 1
 pages:
 - projects/3d-graff.md
 - projects/chelsea-landmark.md
