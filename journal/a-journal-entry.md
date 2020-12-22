@@ -3,10 +3,6 @@ date: 2019-05-17
 title: About Typography
 author: Nichlas W. Andersen
 excerpt: Font face, vertical rythm, readability, this long fake text should flow.
-galleria_progetto:
-- "/uploads/cody-davis-253925-unsplash.jpg"
-- "/uploads/ian-dooley-281897-unsplash.jpg"
-- "/uploads/markus-spiske-516263-unsplash.jpg"
 
 ---
 ![](/uploads/markus-spiske-516263-unsplash.jpg)
@@ -23,6 +19,10 @@ The alarm still oscillated, louder here, the rear of the deck sting his palm as 
 
 Still it was a square of faint light. Why bother with the movement of the train, their high heels like polished hooves against the gray metal of the console in faded pinks and yellows. The alarm still oscillated, louder here, the rear of the Villa bespeak a turning in, a denial of the bright void beyond the hull. Then a mist closed over the black water and the dripping chassis of a heroin factory. She put his pistol down, picked up her fletcher, dialed the barrel over to single shot, and very carefully put a toxin dart through the center of a broken mirror bent and elongated as they fell.
 
+galleria_progetto:
+- "/uploads/cody-davis-253925-unsplash.jpg"
+- "/uploads/ian-dooley-281897-unsplash.jpg"
+- "/uploads/markus-spiske-516263-unsplash.jpg"
 
 #### Images formed and reformed
 
