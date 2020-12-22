@@ -35,5 +35,9 @@ fields:
     - Nichlas W. Andersen
   label: Author
   default: Nichlas W. Andersen
+- name: galleria_progetto
+  type: image_gallery
+  config: {}
+  label: Galleria progetto
 pages:
 - journal/macos-development-environment.md
