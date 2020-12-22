@@ -39,5 +39,9 @@ fields:
   type: image_gallery
   config: {}
   label: Galleria progetto
+  showOnly:
+    value: Nichlas W. Andersen
+    field: author
+  description: prova
 pages:
 - journal/macos-development-environment.md
