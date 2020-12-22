@@ -20,6 +20,15 @@ Anything and everything, regardless of incomprehensibility! We understand that i
 
 Anything and everything, regardless of incomprehensibility! We understand that if you incentivize proactively then you may also mesh iteravely. What does the buzzword 'technologies' really mean? Think nano-back-end, customized. What does it really mean to syndicate 'wirelessly'? We will revalue our aptitude to repurpose without lessening our power to benchmark.
 
+---
+galleria_progetto:
+- "/uploads/cody-davis-253925-unsplash.jpg"
+- "/uploads/ian-dooley-281897-unsplash.jpg"
+- "/uploads/markus-spiske-516263-unsplash.jpg"
+- "/uploads/mike-dorner-173502-unsplash.jpg"
+
+---
+
 ### Install NodeJS with Homebrew
 
 The missing package manager for macOS
